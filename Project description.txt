@@ -1,0 +1,18 @@
+
+1. installing deb files to handle dependeny more effectively.
+
+2. Download chef packages by using below command.
+
+3. Run the following command to start the installation process of chef server.
+
+4. check the current status of chef server.
+
+5. use the command to install the management console as its web based feature and its 
+used to manage chef server.
+
+6. Install reporting features by running the below command.
+
+7. the list subcommand is used to list all of the organization currently present on chef 
+infra server.
+
+8.this command will show the version of install chef. 
