@@ -3,27 +3,27 @@
   DESCRIPTION 
 
 #Step 1
-1. is to install deb files to handle dependeny more effectively.
+ is to install deb files to handle dependeny more effectively.
 
 #Step 2
-2. Download chef packages by using this command.
+ Download chef packages by using this command.
 
 #Step3
-3. Run the following command to start the installation process of chef server.
+Run the following command to start the installation process of chef server.
 
 #Step 4
-4. check the current status of chef server.
+ check the current status of chef server.
 
 #Step 5
-5. use the command to install the management console as its web based feature and its 
+ use the command to install the management console as its web based feature and its 
 used to manage chef server.
 
 #Step 6
-6. Install reporting features by running the below command.
+ Install reporting features by running the below command.
 
 #Step 7
-7. the list subcommand is used to list all of the organization currently present on chef 
+ the list subcommand is used to list all of the organization currently present on chef 
 infra server.
 
 #Step 8
-8. this command will show the version of install chef. 
+  this command will show the version of install chef. 
