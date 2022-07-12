@@ -42,6 +42,9 @@ first run the following command:
 
     npm init -y
 
+
+![docker install apt](/steps/9.jpeg)
+
 create file named **app.js** and add the following code:
 
     console.log("Hello from Node");
@@ -54,4 +57,20 @@ then create a file named **Dockerfile** and add the following code:
     WORKINGDIR /app
     COPY ./ /app
     CMD ["node", "app.js"]
+
+![docker install apt](/steps/5.jpeg)
+
+now lets build the container from node image
+
+    sudo docker build -t node-app .
+
+![docker install apt](/steps/11.jpeg)
+
+finally, lets run the container, check logs and check running containers
+
+    sudo docker run -it --name "node-app-demo" -d node-app
+    sudo docker logs node-app-demo
+    sudo docker ps -a
+
+![docker install apt](/steps/10.jpeg)
 
