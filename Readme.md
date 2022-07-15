@@ -19,4 +19,11 @@ The common features of Maven are following:
 
 ## Action
 
-[Screenshot from 2022-07-15 13-39-56](https://user-images.githubusercontent.com/80242957/179191706-39825f72-61d4-46fb-9182-baff5fabcace.png)
+![Screenshot from 2022-07-15 13-39-56](https://user-images.githubusercontent.com/80242957/179191706-39825f72-61d4-46fb-9182-baff5fabcace.png)
+
+
+## Project Object Model
+
+![Screenshot from 2022-07-15 13-41-41](https://user-images.githubusercontent.com/80242957/179192542-08aefb17-1642-4d18-ac2e-8238f142132c.png)
+
+
