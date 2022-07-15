@@ -36,3 +36,4 @@ For Testing, 2 test cases have made of all 4 methods [Addition, Subtraction, Mul
 
 ![Screenshot from 2022-07-15 14-18-48](https://user-images.githubusercontent.com/80242957/179194211-7216cc39-48ae-4315-867c-c561d5d47a5b.png)
 
+All the test cases have been run as shown in below
