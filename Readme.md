@@ -43,15 +43,15 @@ For Using IDE [IntelliJ Idea] open console and write intellij-idea-community
 ![Screenshot from 2022-07-15 14-57-33](https://user-images.githubusercontent.com/80242957/179200781-595d684a-baa0-4b28-8cde-46c368c366d7.png)
 
 Create Test case file with java extension in the project source directory src/test/java/
+
 For Testing, 2 test cases have made of all 4 methods [Addition, Subtraction, Multiplication, Division] shown as below
 
 ### Source Code
 
 ![Screenshot from 2022-07-15 14-18-48](https://user-images.githubusercontent.com/80242957/179194211-7216cc39-48ae-4315-867c-c561d5d47a5b.png)
 
+All the test cases have been run as shown in below
 
 ### Output
 
 ![Screenshot from 2022-07-15 14-38-34](https://user-images.githubusercontent.com/80242957/179197710-b8351dfa-2066-4768-a350-d302b071af8f.png)
-
-
