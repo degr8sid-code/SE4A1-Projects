@@ -16,3 +16,7 @@ The common features of Maven are following:
 ## Prerequisites
 
 - Java
+
+## Action
+
+[Screenshot from 2022-07-15 13-39-56](https://user-images.githubusercontent.com/80242957/179191706-39825f72-61d4-46fb-9182-baff5fabcace.png)
