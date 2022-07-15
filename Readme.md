@@ -16,6 +16,7 @@ The common features of Maven are following:
 ## Prerequisites
 
 - Java
+- IntelliJ IDEA Community Edition
 
 ## Github Action
 GitHub Actions is a continuous integration and continuous delivery (CI/CD) platform that allows you to automate your build, test, and deployment pipeline. You can create workflows that build and test every pull request to your repository, or deploy merged pull requests to production.
@@ -34,5 +35,13 @@ A Project Object Model or POM is the fundamental unit of work in Maven. It is an
 ## Test Cases
 For Testing, 2 test cases have made of all 4 methods [Addition, Subtraction, Multiplication, Division] shown as below
 
+### Source Code
+
 ![Screenshot from 2022-07-15 14-18-48](https://user-images.githubusercontent.com/80242957/179194211-7216cc39-48ae-4315-867c-c561d5d47a5b.png)
+
+
+### Output
+
+![Screenshot from 2022-07-15 14-38-34](https://user-images.githubusercontent.com/80242957/179197710-b8351dfa-2066-4768-a350-d302b071af8f.png)
+
 
